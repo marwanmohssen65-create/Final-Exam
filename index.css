@@ -1,0 +1,15 @@
+button{
+    border-color: rgb(7, 149, 152);
+     border-radius: 30px;
+     background-color: aquamarine;
+     
+}
+body{
+    background-color: rgb(169, 235, 235);
+    text-align: center;
+    margin: 200px;
+}
+img{
+    width: 270px; height: 270px;
+     border-radius: 30px;
+}
