@@ -1,0 +1,37 @@
+h2{
+    text-align: center;
+     font-size: 50px;
+    color: aqua;
+     font-family: Arial, Helvetica, sans-serif;
+}
+span{
+    color: bisque;
+    font-size: 70px;
+}
+table{
+    text-align: center;
+    background-color: bisque;
+    border-color:aqua;
+    border-radius: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: solid;
+    width: 750px;
+    height: 700px;
+}
+body{
+    font-size: 40px;
+    background-color: rgb(3, 90, 107);
+    justify-items: center;
+    color: rgb(2, 86, 58);
+    border-radius: 30px;
+}
+img{
+    text-align: center;
+    border-radius: 30px;
+    width: 100px;
+    height: 100px;
+}
+ol{
+    text-align: left;
+    color: black;
+}
